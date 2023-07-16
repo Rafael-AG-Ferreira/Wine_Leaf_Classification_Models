@@ -9,8 +9,8 @@ For each hypothesis the data obtained were (best epoch means lower loss values):
 
     #1 -> 	Transfer Learning Best Epoch    -> 60
             Fine Tunning Best Epoch         -> 32
-                Transfer Learning Max Epoch -> 99
-                Fine Tunning Max Epoch      -> 99
+            Transfer Learning Max Epoch     -> 99
+            Fine Tunning Max Epoch          -> 99
 
     #2 -> 	Transfer Learning Best Epoch    -> 65
             Fine Tunning Best Epoch         -> 87
