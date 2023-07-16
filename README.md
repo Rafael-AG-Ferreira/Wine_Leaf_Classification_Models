@@ -6,6 +6,7 @@ and how changing parameters (extra class for data consolidation or dataset backg
 influences the developed models.
 
 For each hypothesis the data obtained were (best epoch means lower loss values):
+
     #1 -> 	Transfer Learning Best Epoch    -> 60
             Fine Tunning Best Epoch         -> 32
                 Transfer Learning Max Epoch -> 99
